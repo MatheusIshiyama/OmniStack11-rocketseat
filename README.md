@@ -1,4 +1,4 @@
-# OmniStack11-rocketseat
+# OmniStack11-rocketseat by Bravan
 
 ![week-11](https://user-images.githubusercontent.com/3237047/77461023-b5e4e400-6de0-11ea-9006-4a71383e906e.png)
 
